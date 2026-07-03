@@ -1,5 +1,5 @@
 {
   "version": "1.0.2",
   "download_url": "https://github.com/Eugen241024/ECUMarkupStudio/releases/download/v1.0.1/ECUMarkupStudio_Setup.exe",
-  "notes": "Initial release"
+  "notes": "v1.0.2\n\n- Fixed About dialog text clipping\n- Added update checker\n- Improved button auto-sizing"
 }
