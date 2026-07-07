@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.2",
   "download_url": "https://github.com/Eugen241024/ecu-markup-version_check/releases/download/1.0.2/PcbThermalLayout.exe",
-  "notes": "First release"
+  "notes": "Resizable panels added"
 }
